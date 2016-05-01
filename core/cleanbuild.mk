@@ -202,6 +202,7 @@ installclean_files := \
 	$(PRODUCT_OUT)/obj/APPS \
 	$(PRODUCT_OUT)/obj/NOTICE_FILES \
 	$(PRODUCT_OUT)/obj/PACKAGING \
+	$(PRODUCT_OUT)/install \
 	$(PRODUCT_OUT)/recovery \
 	$(PRODUCT_OUT)/root \
 	$(PRODUCT_OUT)/system \
